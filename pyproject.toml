@@ -47,7 +47,7 @@ classifiers = [
     "Topic :: Utilities",
 ]
 dependencies = [
-    "numpy",
+    "numpy>=1.21",
     "platformdirs",
     "scenedetect~=0.6.2",
     "tqdm",
